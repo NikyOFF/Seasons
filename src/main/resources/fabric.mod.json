@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "seasons",
+    "version": "${version}",
+    "name": "Seasons",
+    "description": "",
+    "authors": ["nikyoff"],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/seasons/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "client": ["me.nikyoff.seasons.client.SeasonsModClient"],
+        "main": ["me.nikyoff.seasons.SeasonsMod"],
+        "modmenu": [
+            "me.nikyoff.seasons.integration.modmenu.ModMenuImpl"
+        ]
+    },
+    "mixins": ["seasons.mixins.json"],
+    "accessWidener": "seasons.accesswidener",
+    "depends": {
+        "fabricloader": ">=0.12.8",
+        "fabric": "*",
+        "minecraft": "1.18"
+    }
+}

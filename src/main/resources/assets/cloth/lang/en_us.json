@@ -1,0 +1,27 @@
+{
+    "cloth.seasons.title": "",
+    "cloth.seasons.category.general": "Seasons",
+    "cloth.seasons.category.general.progressSeasonWhileOffline.name": "Progress season while offline",
+    "cloth.seasons.category.general.progressSeasonWhileOffline.tooltip": "Will it continue during the seasons when players are not on the server",
+    "cloth.seasons.category.general.subSeasonDuration.name": "Sub season duration",
+    "cloth.seasons.category.general.subSeasonDuration.tooltip": "Sub season duration in minecraft days",
+    "cloth.seasons.category.general.tropicalSeasonDuration.name": "Tropical season duration",
+    "cloth.seasons.category.general.tropicalSeasonDuration.tooltip": "Tropical season duration in minecraft days",
+    "cloth.seasons.category.general.startingSubSeason.name": "Starting sub season",
+    "cloth.seasons.category.general.startingSubSeason.tooltip:": "Season from which the game will begin",
+    "cloth.seasons.category.general.whitelistedDimensions.name": "Whitelisted dimensions",
+    "cloth.seasons.category.general.whitelistedDimensions.tooltip:": "Dimensions to which the seasons apply",
+
+    "cloth.seasons.category.biomes": "Biomes",
+    "cloth.seasons.category.biomes.biomeDataKeys.name": "Biomes to setup",
+    "cloth.seasons.category.biomes.biomeDataKeys.tooltip": "Add to this list the biomes you want to customize",
+
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.useTropicalSeasons.name": "Use tropical seasons",
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.useTropicalSeasons.tooltip": "Apply tropical seasons to biome",
+
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.enableSeasonalEffects.name": "Enable seasonal effects",
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.enableSeasonalEffects.tooltip": "Use seasonal effects",
+
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.lessColor.name": "Less color",
+    "cloth.seasons.category.biomes.biomeDataKeys.settings.lessColor.tooltip": "Less color change"
+}

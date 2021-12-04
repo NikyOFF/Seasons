@@ -1,0 +1,18 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "me.nikyoff.seasons.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+        "WeatherAccessor",
+        "MixinWorldView"
+    ],
+    "client": [
+        "client.MixinDebugHud",
+        "client.MixinBlockColors",
+        "client.MixinBiomeColors"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
